@@ -1,4 +1,4 @@
-![Login_Page](/uploads/7b74e80aad193f0cff5c8280013fe152/Login_Page.png)
+![Login_Page](https://github.com/Gamabears/GreenFoodChallenge/blob/master/About_Page.png)
 ![Pledge_Page_1](/uploads/05a492417717b686f4ce3710c69fb1f1/Pledge_Page_1.png)
 ![Pledge_Page_2](/uploads/27f56842f8754f6e43035d16d15450e3/Pledge_Page_2.png)
 ![Pledge_Page_3](/uploads/71d53003ce8f2e3402c63ea90506b4d8/Pledge_Page_3.png)
